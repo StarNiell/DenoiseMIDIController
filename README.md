@@ -1,7 +1,7 @@
 # DenoiseMIDIController
 
 ## Description
-This project help you to build a USB MIDI Controller with 4 Knob and 2 buttons.
+This project help you to build a USB MIDI Controller with 4 Knobs and 2 buttons.
 The name "Denoise" is only for fun... because this project was born to automate a VST Host software dedicated to hamradio.
 The VST used in this project are:
 * BL Denoise
