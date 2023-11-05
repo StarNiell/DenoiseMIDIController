@@ -8,8 +8,12 @@ The VST used in this project are:
 * DD Gate
 
 ## Devices
-A USB capable Arduino board is usefull for this project (for eg. Arduino Leonardo or Arduino Micro).
+A USB capable Arduino board is usefull for this project.
 **NOTE**: Arduino R3 or Arduino Mini or Arduino Nano are not USB capable!
+
+You can use:
+** Arduino Pro Micro (or simply Arduino Micro)
+** Arduino Leonardo
 
 
 
