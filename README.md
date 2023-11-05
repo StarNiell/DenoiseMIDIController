@@ -12,8 +12,8 @@ A USB capable Arduino board is usefull for this project.
 **NOTE**: Arduino R3 or Arduino Mini or Arduino Nano are not USB capable!
 
 You can use:
-** Arduino Pro Micro (or simply Arduino Micro)
-** Arduino Leonardo
+* Arduino Pro Micro (or simply Arduino Micro)
+* Arduino Leonardo
 
 
 
