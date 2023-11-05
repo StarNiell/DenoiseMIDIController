@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\Aniello\\Desktop\\Folders\\Arduino Files\\DenoiseMIDIController\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:micro",
+    "programmer": "usbasp",
+    "port": "COM19",
+    "output": "../DenoiseMIDIController/build",
+    "sketch": "DenoiseMIDIController.ino"
+}

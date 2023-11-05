@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:micro",
+  "hardwareFolders": "C:\\Users\\Aniello\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Aniello\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\Aniello\\Desktop\\Folders\\Arduino Files\\DenoiseMIDIController"
+}
