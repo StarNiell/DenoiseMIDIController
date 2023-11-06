@@ -30,7 +30,7 @@ Put an pin on VCC (+5V) and the other pin to follow ports:
 * 15 - Button2
 
 
-**NOTE**: Add a 10K resistor between these pins and the GND
+**NOTE**: Add a 10K resistor between these ports and the GND
 
 
 
