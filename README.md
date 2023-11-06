@@ -16,12 +16,15 @@ You can use:
 * Arduino Leonardo
 
 ## Analog Input for 4 Knobs (Potentiometers)
+You can use values between 50K ~ 500K Linear potentiometers. 
+Connect the left pin to the GND (ground), the right pin to VCC (+5V) and the center pit to the follow ports:
 * A0 - Potentiometer1
 * A1 - Potentiometer2
 * A2 - Potentiometer3
 * A3 - Potentiometer4
 
 ## Digital Input for 2 Buttons
+Put an pin on VCC (+5V.) and the other pin to follow output: (and add a 10K resistor between this pin and the GND)
 * 14 - Button1
 * 15 - Button2
 
