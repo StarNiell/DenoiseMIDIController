@@ -18,7 +18,7 @@ You can use:
 
 ## Analog Input for 4 Knobs (Potentiometers)
 You can use values between 50K ~ 500K Linear potentiometers. 
-Connect the left pin to the GND (ground), the right pin to VCC (+5V) and the center pit to the follow ports:
+Connect the left pin to the GND (ground), the right pin to VCC (+5V) and the center pin to the follow ports:
 * A0 - Potentiometer1
 * A1 - Potentiometer2
 * A2 - Potentiometer3
