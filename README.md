@@ -24,9 +24,11 @@ Connect the left pin to the GND (ground), the right pin to VCC (+5V) and the cen
 * A3 - Potentiometer4
 
 ## Digital Input for 2 Buttons
-Put an pin on VCC (+5V.) and the other pin to follow ports: (and add a 10K resistor between this pin and the GND)
+Put an pin on VCC (+5V) and the other pin to follow ports: 
 * 14 - Button1
 * 15 - Button2
+
+**NOTE**: Add a 10K resistor between these pins and the GND
 
 
 
