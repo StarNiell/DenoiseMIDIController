@@ -9,6 +9,7 @@ The VST used in this project are:
 
 ## Devices
 A USB capable Arduino board is usefull for this project.
+
 **NOTE**: Arduino R3 or Arduino Mini or Arduino Nano are not USB capable!
 
 You can use:
@@ -27,6 +28,7 @@ Connect the left pin to the GND (ground), the right pin to VCC (+5V) and the cen
 Put an pin on VCC (+5V) and the other pin to follow ports: 
 * 14 - Button1
 * 15 - Button2
+
 
 **NOTE**: Add a 10K resistor between these pins and the GND
 
