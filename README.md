@@ -15,6 +15,16 @@ You can use:
 * Arduino Pro Micro (or simply Arduino Micro)
 * Arduino Leonardo
 
+## Analog Input for 4 Knobs (Potentiometers)
+*A0 - Potentiometer1
+*A1 - Potentiometer2
+*A2 - Potentiometer3
+*A3 - Potentiometer4
+
+## Digital Input for 2 Buttons
+*14 - Button1
+*15 - Button2
+
 
 
 
